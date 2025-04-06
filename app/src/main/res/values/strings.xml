@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mathMobileApp</string>
+
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>×</item>
+        <item>÷</item>
+    </string-array>
+</resources>
